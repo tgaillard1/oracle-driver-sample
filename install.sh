@@ -2,7 +2,7 @@
 
 set -e
 
-# import the common functions for installing modules and configuring drivers
+# import the common functions for installing modules and configuring all drivers
 source /usr/local/s2i/install-common.sh
 
 # should be the directory where this script is located
